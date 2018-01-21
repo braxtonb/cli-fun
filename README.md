@@ -22,6 +22,6 @@ Applescripts and other cool things galore!
   terminals, wallpapers, and more
 * [figletjs](https://github.com/patorjk/figlet.js) - generate awesome looking
   ASCII letters
-* [test figlet in browser](http://patorjk.com/software/taag/#p=display&f=ANSI%20Shadow&t=Hello%20%3A))
+* [test figlet in browser](http://patorjk.com/software/taag/#p=display&f=ANSI%20Shadow&t=Hello%20%3A)
 * [inquirer](https://github.com/SBoudrias/Inquirer.js) - collection of common
   interactive command line user interfaces (think cool checkboxes and lists)
