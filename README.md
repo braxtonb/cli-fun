@@ -25,4 +25,3 @@ Applescripts and other cool things galore!
 * [test figlet in browser](http://patorjk.com/software/taag/#p=display&f=ANSI%20Shadow&t=Hello%20%3A))
 * [inquirer](https://github.com/SBoudrias/Inquirer.js) - collection of common
   interactive command line user interfaces (think cool checkboxes and lists)
-*
