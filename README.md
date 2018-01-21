@@ -5,6 +5,10 @@
 This project is meant to be a warehouse for any CLI ideas I may have.
 Applescripts and other cool things galore!
 
+#### Directions
+
+`node index.js`
+
 #### Current Features
 
 * Play games built into emacs
