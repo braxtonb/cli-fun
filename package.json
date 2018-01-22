@@ -4,18 +4,19 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
-  "keywords": [
-    "Automation",
-    "CLI"
-  ],
+  "keywords": ["Automation", "CLI"],
   "author": "Braxton Brewton",
   "license": "ISC",
   "dependencies": {
     "chalk": "^2.3.0",
     "clear": "0.0.1",
     "figlet": "^1.2.0",
-    "inquirer": "^5.0.1"
+    "inquirer": "^5.0.1",
+    "open-pip-cli": "^1.4.0",
+    "preferences": "^1.0.2",
+    "twitch-url-cli": "^1.0.1",
+    "ytdl": "^0.10.0"
   }
 }
