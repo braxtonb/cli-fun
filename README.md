@@ -7,7 +7,8 @@ Applescripts and other cool things galore!
 
 #### Directions
 
-* To run the program: `node index.js`
+* Run `npm install` to install dependencies
+* Run `node index.js` to start the program
 
 #### Current Features
 
