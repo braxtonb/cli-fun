@@ -1,1 +1,3 @@
 Youtube Search
+✅ Use Node.js solution instead of exec
+✅ Parse channel.url for actual name of stream since display name is not always used

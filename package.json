@@ -1,26 +1,26 @@
 {
   "name": "cli-fun",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "Random command line tasks",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": [
-    "Automation",
-    "CLI"
-  ],
+  "keywords": ["Automation", "CLI"],
   "author": "Braxton Brewton",
   "license": "ISC",
+  "bin": {
+    "clifun": "./index.js"
+  },
   "dependencies": {
     "chalk": "^2.3.0",
     "clear": "0.0.1",
     "figlet": "^1.2.0",
     "inquirer": "^5.0.1",
     "node-fetch": "^2.0.0",
-    "open-pip-cli": "^1.4.0",
+    "open-pip": "^3.0.5",
     "preferences": "^1.0.2",
-    "twitch-url-cli": "^1.0.1",
-    "ytdl": "^0.10.0"
+    "twitch-get-stream": "^0.4.1",
+    "ytdl-core": "^0.20.2"
   }
 }
