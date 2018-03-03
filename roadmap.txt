@@ -1,3 +1,7 @@
 Youtube Search
 ✅ Use Node.js solution instead of exec
 ✅ Parse channel.url for actual name of stream since display name is not always used
+✅ List all channels user is subscribed to
+✅ List most recent 50 videos by channel selected
+Break up the questions array monolith in input.js
+Brainstorm method of allowing user to navigate to video list page and sub page

@@ -12,14 +12,16 @@ Applescripts and other cool things galore!
 
 #### Current Features
 
-* Play games built into emacs
-* Watch Star Wars in ASCIInimation
-* Watch Youtube (only 4 videos currently, maybe add search in the future)
-* Watch Twitch (requires a [twitch app client ID](https://dev.twitch.tv/) which
-  can be created by creating a developer account and creating an app)
+* Watch the latest Youtube videos from channels you are subscribed to!
+* Watch Twitch streams!
+* Play games built into emacs!
+* Watch Star Wars in ASCIInimation!
 
 #### Requirements
 
+* **Watch Twitch Requirement** Get a [twitch app client ID](https://dev.twitch.tv/) which can be created by creating a developer account and an app
+* **Watch Youtube Requirement** Create a project on [google](https://console.developers.google.com/apis/credentials), enable the Youtube API for your project, and create an API Key for use with this app
+* Go to your [advanced account settings](https://www.youtube.com/account_advanced) in Youtube to get your channel ID
 * macOS
 * Latest [Node.js](https://nodejs.org/)
 
